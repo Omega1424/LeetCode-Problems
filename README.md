@@ -6,3 +6,4 @@
 |[Runner Up](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?h_r=next-challenge&h_v=zen)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Runner_Up.py)|
 |[Nested Lists_Second_Lowest_Score](https://www.hackerrank.com/challenges/nested-list/problem)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Nested_List_Second_Lowest_score.py)|
 |[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Finding_the_percentage.py)|
+|[Lists and Commands](https://www.hackerrank.com/challenges/python-lists/problem)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Lists_and_Commands.py)|
