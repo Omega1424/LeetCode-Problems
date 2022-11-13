@@ -8,3 +8,4 @@
 |[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Finding_the_percentage.py)|
 |[Lists and Commands](https://www.hackerrank.com/challenges/python-lists/problem)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Lists_and_Commands.py)|
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/MergeIntervals.py)|
+|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/MajorityElement.py)|
