@@ -9,3 +9,4 @@
 |[Lists and Commands](https://www.hackerrank.com/challenges/python-lists/problem)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/Lists_and_Commands.py)|
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/MergeIntervals.py)|
 |[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/MajorityElement.py)|
+|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/SortColors.py)|
