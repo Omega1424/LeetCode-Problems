@@ -11,4 +11,4 @@
 |[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/MajorityElement.py)|
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/SortColors.py)|
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ContainsDuplicate.py)|
-|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/submissions/)|[Solution)|](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ContainerwithmostWater.py)|
+|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/submissions/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ContainerwithmostWater.py)|
