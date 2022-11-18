@@ -13,3 +13,4 @@
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ContainsDuplicate.py)|
 |[Container with Most Water](https://leetcode.com/problems/container-with-most-water/submissions/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ContainerwithmostWater.py)|
 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ValidPalindrome.py)|
+|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ValidAnagram.py)|
