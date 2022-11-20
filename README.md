@@ -14,4 +14,4 @@
 |[Container with Most Water](https://leetcode.com/problems/container-with-most-water/submissions/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ContainerwithmostWater.py)|
 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ValidPalindrome.py)|
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ValidAnagram.py)|
-|Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution]()
+|[Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestSubstringWithoutRepeating.py)|
