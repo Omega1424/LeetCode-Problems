@@ -16,3 +16,4 @@
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/ValidAnagram.py)|
 |[Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestSubstringWithoutRepeating.py)|
 |[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestPalindrome.py)|
+|[StringToInteger{atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/StringToInteger(atoi).py)|
