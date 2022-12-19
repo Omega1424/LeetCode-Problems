@@ -17,3 +17,4 @@
 |[Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestSubstringWithoutRepeating.py)|
 |[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestPalindrome.py)|
 |[StringToInteger{atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/StringToInteger(atoi).py)|
+|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestPalindromicSubstring.py)|
