@@ -18,3 +18,4 @@
 |[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestPalindrome.py)|
 |[StringToInteger{atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/StringToInteger(atoi).py)|
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestPalindromicSubstring.py)|
+|[Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/FindAllAnagramsInAString.py)|
