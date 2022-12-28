@@ -20,3 +20,4 @@
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LongestPalindromicSubstring.py)|
 |[Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/FindAllAnagramsInAString.py)|
 |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MinimumWindowSubstring.py)|
+|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/SpiralMatrix.py)|
