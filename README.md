@@ -21,3 +21,4 @@
 |[Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/FindAllAnagramsInAString.py)|
 |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MinimumWindowSubstring.py)|
 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/SpiralMatrix.py)|
+|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/RansomNote.py)|
