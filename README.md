@@ -23,3 +23,4 @@
 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/SpiralMatrix.py)|
 |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/RansomNote.py)|
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MergeTwoSortedLists.py)|
+|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/s)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LinkedListCycle.py)|
