@@ -24,5 +24,5 @@
 |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/RansomNote.py)|
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MergeTwoSortedLists.py)|
 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/s)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LinkedListCycle.py)|
-|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution(iterative)](https://github.com/Omega1424/LeetCode-Problems/blob/main/ReverseLinkedList(iterative).py)|
+|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution(iterative)](https://github.com/Omega1424/LeetCode-Problems/blob/main/ReverseLinkedList(iterative).py) [Solution(recursive)](https://github.com/Omega1424/LeetCode-Problems/blob/main/ReverseLinkedList(recursive).py)|
 |[Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MiddleOfLinkedList.py)|
