@@ -27,3 +27,5 @@
 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution(iterative)](https://github.com/Omega1424/LeetCode-Problems/blob/main/ReverseLinkedList(iterative).py), [Solution(recursive)](https://github.com/Omega1424/LeetCode-Problems/blob/main/ReverseLinkedList(recursive).py)|
 |[Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MiddleOfLinkedList.py)|
 |[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/AddBinary.py)|
+|[Valid Parentheses]()|[Solution]()|
+|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/ClimbingStairs.py)|
