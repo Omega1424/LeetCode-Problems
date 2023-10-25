@@ -29,3 +29,4 @@ List of LeetCode problems I've completed along with my solutions.
 |[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/AddBinary.py)|
 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/ValidParentheses.py)|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/ClimbingStairs.py)|
+|[K'th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/Kth-Symbol-in-Grammar.py)|
