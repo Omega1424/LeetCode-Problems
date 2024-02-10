@@ -31,3 +31,4 @@ List of LeetCode problems I've completed along with my solutions.
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/ClimbingStairs.py)|
 |[K'th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/Kth-Symbol-in-Grammar.py)|
 |[3Sum](https://leetcode.com/problems/3sum/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/3sum.py)|
+|[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/GenerateParenthesis.py)|
