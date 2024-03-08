@@ -1,5 +1,6 @@
-List of LeetCode problems I've completed along with my solutions.
+
 # LeetCode-Problems
+### List of LeetCode problems I've completed along with my solutions.
 |Problem Name                |Solution Link|
 |----------------------------|-------------|
 |[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[Solution](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/List_Comprehensions.py), [Solution(Loops)](https://github.com/Omega1424/Hacker-Rank-Problems/blob/main/List_Comprehension_(Loops).py)|
