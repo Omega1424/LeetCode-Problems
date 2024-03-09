@@ -35,4 +35,5 @@
 |[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/GenerateParenthesis.py)|
 |[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/ZigzagConversion.py)|
 |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/RemoveElement.py)|
-|[]()|[]()|
+|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/RemoveDuplicatesFromSortedArra[]()y.py)|
+|[]()|[Solution]()|
