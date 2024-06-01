@@ -42,4 +42,6 @@
 |[3Sum Cloest](https://leetcode.com/problems/3sum-closest/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/3SumClosest.py)|
 |[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LetterCombinationsOfAPhoneNumber.py)|
 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MaxConsecutiveOnes.py)|
+|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MaxConsecutiveOnes3.py)|
 |[]()|[Solution]()|
+
