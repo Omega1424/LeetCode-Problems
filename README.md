@@ -43,5 +43,8 @@
 |[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/LetterCombinationsOfAPhoneNumber.py)|
 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MaxConsecutiveOnes.py)|
 |[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MaxConsecutiveOnes3.py)|
+|[Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/MaximumDifferenceBetweenIncreasingElements.py)|
+|[Pairs Of Song sWith Total Duration Divisible By 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/PairsOfSongsWithTotalDurationDivisibleBy60.py)|
+|[Shitfing Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/ShitfingLetters.py)|
 |[]()|[Solution]()|
 
