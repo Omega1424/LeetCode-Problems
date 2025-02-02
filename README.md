@@ -50,4 +50,5 @@
 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/RotateArray.py)|
 |[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/BestTimeToBuyAndSellStock.py)|
 |[Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/BestTimeToBuyAndSellStockII.py)|
+|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/Omega1424/LeetCode-Problems/blob/main/JumpGame.py)|
 |[]()|[Solution]()|
